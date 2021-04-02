@@ -8,4 +8,10 @@ public class LoginTest {
     public void testLogin() {
         System.out.println("testLogin");
     }
+    
+     @Test
+    public void testLoginNegative() {
+        System.out.println("testLoginNegative");
+    }
+    
 }
