@@ -13,5 +13,10 @@ public class LoginTest {
     public void testLoginNegative() {
         System.out.println("testLoginNegative");
     }
+
+    @Test
+    public void testLoginPositive() {
+        System.out.println("testLoginPositive");
+    }
     
 }
